@@ -1,0 +1,53 @@
+* {
+    background-color: turquoise;
+}
+
+.welcome {
+    color: blue;
+    font-size: 50px;
+    text-align: center;
+    background-color: yellow;
+}
+
+body p {
+    text-align: center;
+    color: red;
+    font-size: 20px;
+}
+
+.shop {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+body div a p {
+    background-color: #4CAF50;
+    font-size: 25px;
+    color: white;
+}
+
+body div a img {
+    background-color: #4CAF50;
+}
+
+.shop:hover {
+    transform: scale(1.2);
+}
+
+.cart {
+    margin-left: auto;
+    display: block;
+    width: 50px;
+    height: 50px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
